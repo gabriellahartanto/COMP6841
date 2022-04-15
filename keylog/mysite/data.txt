@@ -1,0 +1,87 @@
+2022-04-15-05:19:31
+/Desktop
+  /Prodigi
+    Slide 16_9 - 16.png
+    Slide 16_9 - 19.png
+    /Welcoming Slides
+      Slide 16_9 - 11.png
+      Slide 16_9 - 12.png
+      Slide 16_9 - 19.png
+      Slide 16_9 - 20.png
+      Slide 16_9 - 21.png
+  Screen Shot 2022-02-16 at 8.42.49 pm.png
+  Screen Shot 2022-03-02 at 4.55.04 pm.png
+  Screen Shot 2022-03-10 at 9.33.31 pm.png
+  Screen Shot 2022-04-02 at 10.20.29 am.png
+  Screen Shot 2022-04-02 at 12.47.52 pm.png
+  Screen Shot 2022-04-04 at 9.41.50 pm.png
+  Screen Shot 2022-04-05 at 1.14.49 pm.png
+  Screen Shot 2022-04-07 at 9.59.49 pm.png
+  Screen Shot 2022-04-15 at 7.36.12 am.png
+  /WIT
+    Screen Shot 2022-03-04 at 2.00.33 pm.png
+    /WIT x Macquarie Mock Interview
+      Screen Shot 2022-03-02 at 5.40.05 pm.png
+      Screen Shot 2022-03-02 at 5.40.27 pm.png
+      Screen Shot 2022-03-02 at 5.47.22 pm.png
+      Screen Shot 2022-03-02 at 5.49.14 pm.png
+      Screen Shot 2022-03-02 at 5.51.21 pm.png
+      Screen Shot 2022-03-02 at 5.52.30 pm.png
+      Screen Shot 2022-03-02 at 5.53.11 pm.png
+      Screen Shot 2022-03-02 at 5.53.33 pm.png
+      Screen Shot 2022-03-02 at 5.54.12 pm.png
+      Screen Shot 2022-03-02 at 5.55.25 pm.png
+      Screen Shot 2022-03-02 at 5.56.07 pm.png
+      Screen Shot 2022-03-02 at 5.57.47 pm.png
+/Downloads
+    /black-mango-font-modern-beauty-family 2
+      /OTF
+        BlackMango-Black.otf
+        BlackMango-Bold.otf
+        BlackMango-ExtraBold.otf
+        BlackMango-ExtraLight.otf
+        BlackMango-Light.otf
+        BlackMango-Medium.otf
+        BlackMango-Regular.otf
+        BlackMango-SemiBold.otf
+        BlackMango-Thin.otf
+      /TTF
+        BlackMango-Black.ttf
+        BlackMango-Bold.ttf
+        BlackMango-ExtraBold.ttf
+        BlackMango-ExtraLight.ttf
+        BlackMango-Light.ttf
+        BlackMango-Medium.ttf
+        BlackMango-Regular.ttf
+        BlackMango-SemiBold.ttf
+        BlackMango-Thin.ttf
+      /Variable
+        BlackMangoVariableGX.ttf
+    Sponsors Collage BY TIER (1).png
+    Instagram post - 3 (4).png
+    Instagram post - 3 (3).png
+    IMG_2434.jpg
+    Instagram post - 3 (2).png
+    walking-willow.svg
+    walking willow.ai
+    IMG_2434.PNG
+    9a71d6d5-e8dd-4dfd-bca9-0c6fa8fe5849.JPG
+    /Zoom Backgrounds (3)
+      Competitions - Anusha Nair.png
+      Competitions - Gabriella Gandi.png
+      Competitions - Vivian Wong.png
+      Competitions - William Yang.png
+    Zoom Backgrounds (3).zip
+    /Zoom Backgrounds (2)
+      Careers - Anusha Nair.png
+      Careers - Gabriella Gandi.png
+      Careers - William Yang.png
+    Zoom Backgrounds (2).zip
+    IMG_2424.PNG
+    Warp.dmg
+    274812879_3794831274075598_7474906407615272599_n.png
+    /BuildingAnNFCTagReaderApp
+      /Configuration
+        SampleCode.xcconfig
+      SampleCode.xcconfig
+    SampleCode.xcconfig
